@@ -10,8 +10,8 @@ El juego comienza cuando clickeas el boton "Iniciar juego", al hacer click comie
 Las celdas iniciales quedan fijas, y no se puede cambiar su valor.
 
 <ins>Instrucciones de juego:</ins>
--Para insertar un numero en el tablero, seleccionar el numero deseado en el menu de OPCIONES (por defecto se selecciona el 1), y luego 
+  -  Para insertar un numero en el tablero, seleccionar el numero deseado en el menu de OPCIONES (por defecto se selecciona el 1), y luego 
 clickear la celda en la que se quiere insertar el numero.
--Si la celda que se inserto incumple alguna regla del Sudoku, entonces la celda insertada y la celda que hace que la regla no se cumpla
+  -  Si la celda que se inserto incumple alguna regla del Sudoku, entonces la celda insertada y la celda que hace que la regla no se cumpla
 se marcan con fondo rojo.
--Si una celda cambia su validez al cambiar otra celda, esta celda vuelve a tener fondo blanco.
+  -  Si una celda cambia su validez al cambiar otra celda, esta celda vuelve a tener fondo blanco.
